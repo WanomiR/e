@@ -1,4 +1,4 @@
-// Pacakge e is a simple package for wrapping errors
+// Package e is a simple package for wrapping errors
 package e
 
 import "fmt"
