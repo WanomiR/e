@@ -1,2 +1,2 @@
-# e
-Golang module for errors handling
+# Errors module
+Simple golang module for wrapping errors.
