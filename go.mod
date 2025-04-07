@@ -1,3 +1,3 @@
-module github.com/wanomir/e
+module github.com/vedomirr/e
 
 go 1.24
