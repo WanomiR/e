@@ -1,3 +1,3 @@
 module github.com/vedomirr/e
 
-go 1.24
+go 1.19
